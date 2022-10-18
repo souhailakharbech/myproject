@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/MyProjectTabibi/src/utils/MyConnection.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/MyProjectTabibi/src/myprojecttabibi/MyProjectTabibi.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/MyProjectTabibi/src/utils/CurrentData.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/MyProjectTabibi/src/Entities/Ordonnance.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/MyProjectTabibi/src/Entities/LettreConfidentielle.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/MyProjectTabibi/src/gui/FirstWindowOrdonnane.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/MyProjectTabibi/src/Entities/Medecin.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/MyProjectTabibi/src/services/CRUDLettre.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/MyProjectTabibi/src/gui/FirstFormOrdonnanceController.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/MyProjectTabibi/src/services/CRUDOrdonnance.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/MyProjectTabibi/src/gui/FirstFormOrdonnance.fxml</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/MyProjectTabibi/src/test/Main.java</file>
+        </group>
+    </open-files>
+</project-private>
